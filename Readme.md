@@ -35,6 +35,24 @@ Primary goals:
 - Keep tunnels alive across network interruptions and reboots.
 - Log events locally for audit and troubleshooting.
 
+<div style="text-align: center;">
+  <a href="https://github.com/michele-tn/SSH-Tunnel-Service-Reverse-SSH-Port-Forwarding-Windows-/blob/342395dc35c0d83fe0702cfe0dc2b9bff485d65f/LOCAL_DB.jpg" target="_blank">
+    <img src="https://github.com/michele-tn/SSH-Tunnel-Service-Reverse-SSH-Port-Forwarding-Windows-/raw/342395dc35c0d83fe0702cfe0dc2b9bff485d65f/LOCAL_DB.jpg"
+         alt="LOCAL_DB"
+         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  </a>
+
+  <br>
+
+  <a href="https://github.com/michele-tn/SSH-Tunnel-Service-Reverse-SSH-Port-Forwarding-Windows-/blob/342395dc35c0d83fe0702cfe0dc2b9bff485d65f/INTERACTIVE_MODE.jpg" target="_blank">
+    <img src="https://github.com/michele-tn/SSH-Tunnel-Service-Reverse-SSH-Port-Forwarding-Windows-/raw/342395dc35c0d83fe0702cfe0dc2b9bff485d65f/INTERACTIVE_MODE.jpg"
+         alt="INTERACTIVE_MODE"
+         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  </a>
+</div>
+
+
+
 ---
 
 Repository layout (exact structure discovered)
